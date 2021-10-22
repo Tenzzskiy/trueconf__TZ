@@ -1,2 +1,2 @@
 
-![alt text](components/example_1.png)
+![alt text](src/components/example_1.PNG)
